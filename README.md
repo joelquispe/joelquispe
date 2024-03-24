@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joel
 ============================================================================================================================
 
-Web Developer and Mobile Developer
+Full Stack Developer
 ----------------------------------
 
 * 🌍  I'm based in Lima, Perú
-* 🖥️  See my portfolio at [Joel Quispe](http://https://joelquispe.github.io/YoeCode/)
+* 🖥️  See my portfolio at [Joel Quispe](http://https://joelquispe.github.io)
 * ✉️  You can contact me at [joelsosayaquispe@gmail.com](mailto:joelsosayaquispe@gmail.com)
 * 🧠  I'm learning New framework
 
